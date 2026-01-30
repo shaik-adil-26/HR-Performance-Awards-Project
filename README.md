@@ -63,16 +63,15 @@ Pandas
 
 ---
 
-## 👨‍💻 Author
-**Shaik Adil**
+## 👤 Author
+
+**Shaik Adil Altaf**
+BCA Student | Python Learner | AI & Data Science Enthusiast
+
+---
+## Contact
+📧 Email: shaikadil2600@gmail.com
 
 ---
 
-### 📧 Contact
-📩 Email: yourname@email.com
 
-
-
-Build Dashboard (Streamlit)
-
-Add Machine Learning Prediction
